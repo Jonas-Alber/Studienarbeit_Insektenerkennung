@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>other_selected</folder>
+<filename>1091767832_feffe80af9_n.jpg</filename>
+<path>/content/drive/MyDrive/tf_workspace/Images/Classification_Images/trainFD/1091767832_feffe80af9_n.jpg</path>
+<source>
+<database>Unknown</database>
+</source>
+<size>
+<width>320</width>
+<height>203</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>insect</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>50</xmin>
+<ymin>63</ymin>
+<xmax>200</xmax>
+<ymax>156</ymax>
+</bndbox>
+</object>
+</annotation>

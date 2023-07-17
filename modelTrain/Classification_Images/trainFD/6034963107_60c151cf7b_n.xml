@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>wasp_selected</folder>
+<filename>6034963107_60c151cf7b_n.jpg</filename>
+<path>/content/drive/MyDrive/tf_workspace/Images/Classification_Images/trainFD/6034963107_60c151cf7b_n.jpg</path>
+<source>
+<database>Unknown</database>
+</source>
+<size>
+<width>320</width>
+<height>213</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>vespula</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>79</xmin>
+<ymin>36</ymin>
+<xmax>223</xmax>
+<ymax>150</ymax>
+</bndbox>
+</object>
+</annotation>

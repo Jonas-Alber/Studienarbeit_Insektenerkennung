@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>other_selected</folder>
+<filename>831879901_526f877a49_w.jpg</filename>
+<path>/content/drive/MyDrive/tf_workspace/Images/Classification_Images/testFD/831879901_526f877a49_w.jpg</path>
+<source>
+<database>Unknown</database>
+</source>
+<size>
+<width>399</width>
+<height>229</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>insect</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>128</xmin>
+<ymin>59</ymin>
+<xmax>294</xmax>
+<ymax>159</ymax>
+</bndbox>
+</object>
+</annotation>

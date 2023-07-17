@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>bee</folder>
+<filename>3714145556_9d946a1d01_m.jpg</filename>
+<path>/content/drive/MyDrive/tf_workspace/Images/Classification_Images/trainFD/3714145556_9d946a1d01_m.jpg</path>
+<source>
+<database>Unknown</database>
+</source>
+<size>
+<width>234</width>
+<height>240</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>bee</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>35</xmin>
+<ymin>3</ymin>
+<xmax>234</xmax>
+<ymax>133</ymax>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>bumble_bee_selected</folder>
+<filename>2779403818_fddfe53b2b_m - Kopie.jpg</filename>
+<path>/content/drive/MyDrive/tf_workspace/Images/Classification_Images/trainFD/2779403818_fddfe53b2b_m - Kopie.jpg</path>
+<source>
+<database>Unknown</database>
+</source>
+<size>
+<width>219</width>
+<height>240</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>bumbleBee</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>54</xmin>
+<ymin>49</ymin>
+<xmax>121</xmax>
+<ymax>126</ymax>
+</bndbox>
+</object>
+</annotation>

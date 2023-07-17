@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>bee</folder>
+<filename>F00010.jpg</filename>
+<path>/content/drive/MyDrive/tf_workspace/Images/Classification_Images/testFD/F00010.jpg</path>
+<source>
+<database>Unknown</database>
+</source>
+<size>
+<width>640</width>
+<height>640</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>vespula</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>444</xmin>
+<ymin>442</ymin>
+<xmax>526</xmax>
+<ymax>543</ymax>
+</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>bee</folder>
+<filename>14312999643_7d0069f1d0_m.jpg</filename>
+<path>/content/drive/MyDrive/tf_workspace/Images/Classification_Images/trainFD/14312999643_7d0069f1d0_m.jpg</path>
+<source>
+<database>Unknown</database>
+</source>
+<size>
+<width>171</width>
+<height>239</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>vespula</name>
+<pose>Unspecified</pose>
+<truncated>1</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>27</xmin>
+<ymin>63</ymin>
+<xmax>171</xmax>
+<ymax>229</ymax>
+</bndbox>
+</object>
+</annotation>
